@@ -3,6 +3,6 @@ hello lin
 =======
 hello dev
 >>>>>>> dev
-hello git
+hello git is bad
 lin zhenhua
 gdsahdfh
